@@ -1,0 +1,1 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[5],{BCdq:function(t,e,n){"use strict";n.r(e);var l={metaInfo:{title:"生活"}},s=n("KHd+"),u=Object(s.a)(l,(function(){var t=this.$createElement;return(this._self._c||t)("Layout",[this._v(" 生活 ")])}),[],!1,null,null,null);e.default=u.exports}}]);
